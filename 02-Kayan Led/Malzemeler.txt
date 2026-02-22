@@ -1,0 +1,5 @@
+Arduino Uno
+Breadboard
+5 Adet Kırmızı Led
+5 Adet 330 Ohm Direnç
+11 Adet Erkek-Erkek Jumper Kablo
