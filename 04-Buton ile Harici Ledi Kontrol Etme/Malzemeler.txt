@@ -1,0 +1,5 @@
+Arduino Uno
+Breadboard
+1 Adet Buton
+1 Adet 10K Direnç
+4 Adet Erkek-Erkek Jumper Kablo
