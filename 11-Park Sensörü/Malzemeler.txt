@@ -1,0 +1,5 @@
+Arduino Uno
+Breadboard
+1 Adet HC-SR04 Sensörü
+1 Adet Buzzer
+8 Adet Erkek-Erkek Jumper Kablo
