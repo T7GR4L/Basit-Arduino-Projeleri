@@ -1,0 +1,4 @@
+Arduino Uno
+Breadboard
+1 Adet Buzzer
+2 Adet Erkek-Erkek Jumper Kablo
