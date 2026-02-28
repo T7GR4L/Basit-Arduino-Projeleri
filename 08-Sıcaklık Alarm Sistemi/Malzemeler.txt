@@ -1,0 +1,7 @@
+Arduino Uno
+Breadboard
+1 Adet LM35DZ
+1 Adet 330 Ohm Direnç
+1 Adet Kırmızı Led
+1 Adet Buzzer
+7 Adet Erkek-Erkek Jumper Kablo
