@@ -1,0 +1,10 @@
+Arduino Uno
+Breadboard
+1 Adet Kuvvet Sensörü
+2 Adet 330 Ohm Direnç
+1 Adet 10K Direnç
+1 Adet Kırmızı Led
+1 Adet Yeşil Led
+1 Adet Sürgülü Anahtar
+1 Adet Buzzer
+7 Adet Erkek-Erkek Jumper Kablo
