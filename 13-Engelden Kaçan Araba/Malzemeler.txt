@@ -1,0 +1,8 @@
+Arduino Uno
+Breadboard
+1 Adet H-bridge Motor Sürücüsü (L293D)
+1 Adet Buzzer
+2 Adet Redüktörlü Motor
+1 Adet HC-SR04
+4 Adet AA 1,5V Pil
+27 Adet Erkek-Erkek Jumper Kablo
